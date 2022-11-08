@@ -1,0 +1,2 @@
+Lucas;21;brazuca;tironacabeça
+João;10;Brasileiro;Bola

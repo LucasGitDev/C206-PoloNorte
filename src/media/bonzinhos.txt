@@ -1,0 +1,2 @@
+João;10;Brasileiro;Bola
+Lucas;21;brazuca;carro
